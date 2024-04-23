@@ -11,13 +11,16 @@ export default async function HomePage() {
     <main className="max-w-screen-xl mx-auto px-8">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {allPosts.map((post) => (
+          
           <article key={post.slug}>
+            
             <Link href={`/posts/${post.slug}`}>
               <PostCard
                 title={post.title}
                 date={post.date}
                 excerpt={post.excerpt}
                 slug={post.slug}
+                coverImage={post.coverImageURL}
               />
             </Link>
           </article>
