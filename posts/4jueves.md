@@ -1,7 +1,7 @@
 ---
-title: "Martes"
+title: "Jueves"
 excerpt: ""
-coverImage: "https://i.pinimg.com/564x/26/2c/6e/262c6e60e6e3bab4823bb7ab9cfc6f0a.jpg"
+coverImage: "https://www.creativefabrica.com/wp-content/uploads/2021/01/20/1611185346/Jueves-580x386.jpg"
 date: "2024-04-29"
 author:
   name: Comida 1

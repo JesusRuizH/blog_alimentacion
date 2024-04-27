@@ -1,7 +1,7 @@
 ---
 title: "Viernes"
 excerpt: ""
-coverImage: "https://i.pinimg.com/564x/26/2c/6e/262c6e60e6e3bab4823bb7ab9cfc6f0a.jpg"
+coverImage: "https://i.ytimg.com/vi/DSqmRVNrUMc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCQhymdxibxJY5K38Yu76-hSxc9pA"
 date: "2024-04-29"
 author:
   name: Comida 1

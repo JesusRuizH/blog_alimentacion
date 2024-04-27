@@ -1,7 +1,7 @@
 ---
 title: "Miercoles"
 excerpt: ""
-coverImage: "https://i.pinimg.com/564x/26/2c/6e/262c6e60e6e3bab4823bb7ab9cfc6f0a.jpg"
+coverImage: "https://img.clubimagenes.com/ci/miercoles/miercoles_012.jpg"
 date: "2024-04-29"
 author:
   name: Comida 1

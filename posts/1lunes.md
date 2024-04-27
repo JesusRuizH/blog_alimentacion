@@ -1,7 +1,7 @@
 ---
 title: "Lunes"
 excerpt: ""
-coverImage: "https://i.pinimg.com/564x/26/2c/6e/262c6e60e6e3bab4823bb7ab9cfc6f0a.jpg"
+coverImage: "https://cdn.myportfolio.com/c38444fd29fb96befd13313a43e00794/edd5cbb0-4d1c-474a-af58-6422bb1fd18b_rwc_0x0x800x800x800.png?h=92086d4f58b8b6bc6305cff372f4ca2e"
 date: "2024-04-29"
 author:
   name: Comida 1
